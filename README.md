@@ -1,6 +1,6 @@
 # hello-world
 Weimin's first repository
 
-Hi,Buddy!
+-Weimin's first repository
 
-Here I want to learn Rails and use it do something.
++Simon here, I like Rails and Coffee them far superior to Earth tacos.
